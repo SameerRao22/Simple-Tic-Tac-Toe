@@ -9,6 +9,8 @@
   * This can be done by clicking the green __"Code"__ button and clicking __"Download ZIP"__ 
    * The button is located at the top right of the GitHub page
   * Then save the unzipped project to your Desktop or any other convenient location
+  * [Here](https://youtu.be/X5e3xQBeqf8?t=122) is a tutorial on how to download a project from GitHub
+   * You only need to watch the first 10 seconds of the video from the linked timestamp
 * __Open__ XCode and load the downloaded XCode project
   * Click __"File"__ on the left side of the ribbon on the top of the screen
   * Then click __"Open..."__ and select the downloaded __Tic-Tac-Toe Project__ 
