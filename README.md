@@ -2,7 +2,7 @@
 
 ## Instructions:
 ### Setup:
-* __Note: This project can only be run on a Mac Machine__
+* __Note: This project can only be run on a computer running MacOS__
 * First download __XCode__ from the Mac App Store
   * [Here](https://www.youtube.com/watch?v=g-Lsk7ypjDI) is a quick tutorial on how to download XCode from the App Store
 * Then download the __Tic-Tac-Toe__ project to your machine 
