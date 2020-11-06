@@ -7,7 +7,7 @@
   * [Here](https://www.youtube.com/watch?v=g-Lsk7ypjDI) is a quick tutorial on how to download XCode from the App Store
 * Then download the __Tic-Tac-Toe__ project to your machine 
   * This can be done by clicking the green __"Code"__ button and clicking __"Download ZIP"__ 
-   * The button is located at the top right of the GitHub page in 
+   * The button is located at the top right of the GitHub page
   * Then save the unzipped project to your Desktop or any other convenient location
 * __Open__ XCode and load the downloaded XCode project
   * Click __"File"__ on the left side of the ribbon on the top of the screen
